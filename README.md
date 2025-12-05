@@ -44,6 +44,6 @@ I like sitting where Market Microstructure, Derivatives Pricing, and On-chain Me
 
 ## Links
 
-- GitHub: https://github.com/mahima  
-- LinkedIn: https://www.linkedin.com/in/YOUR_HANDLE  
-- Email: your.name@domain.com
+- GitHub: https://github.com/gothchico 
+- LinkedIn: https://www.linkedin.com/in/mahimaraut  
+- Email: mahimaraut@uchicago.edu
