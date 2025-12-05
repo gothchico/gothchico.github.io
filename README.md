@@ -1,3 +1,11 @@
+<style>
+.site-title,
+.project-name {
+  display: none !important;
+}
+</style>
+
+
 # Mahima Raut
 
 Quantitative researcher focused on DeFi derivatives, crypto markets, and prediction markets.  
